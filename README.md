@@ -17,6 +17,7 @@ L'utilisation:
 -> Double click on the software (HandComputation.exe)
 -> It will generate a file called lines.txt with the computed lines
 ![image](https://github.com/AxelLavielle/MTGHands/assets/12008266/90e328ad-96cd-47b3-937e-ed0dfcdbacbb)
+
 Preview of some lines of a deck:
 ![image](https://github.com/AxelLavielle/MTGHands/assets/12008266/cfdb4513-5f61-45ba-93de-dc92f16787f1)
 
