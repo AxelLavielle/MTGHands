@@ -14,8 +14,9 @@ It allows multiple things:
 ## How ?
 L'utilisation:
 - You need to save your deck under a file name "deck.mtgo"
--> Double click on the software (HandComputation.exe)
--> It will generate a file called lines.txt with the computed lines
+- Double click on the software (HandComputation.exe)
+- It will generate a file called lines.txt with the computed lines
+
 ![image](https://github.com/AxelLavielle/MTGHands/assets/12008266/90e328ad-96cd-47b3-937e-ed0dfcdbacbb)
 
 Preview of some lines of a deck:
